@@ -1,0 +1,17 @@
+public class basicqueue implements QueueIntf{
+	public void enqueue(int e){
+
+	}
+	public void dequeue(){
+		return 0;
+	}
+	public void isEmpty(){
+
+	}
+	public int size(){
+
+	}
+	public void printQueue(){
+		
+	}
+}
